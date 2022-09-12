@@ -3,8 +3,9 @@
 <p align="center">📚 Praticando HTML, CSS e JavaScript.</p>  
 <p align="center">📉 Relógio Digital</p>  
 
- <br>
- <br> 
- <br>
+<br>
+<br> 
+<br>
  
-![relogio](https://user-images.githubusercontent.com/101975205/189507861-1fb8d84c-120f-4bab-847b-b7c7fde2f0e4.jpg)
+https://user-images.githubusercontent.com/101975205/189656626-cf5694fb-7d2c-4e20-98f0-ec47b42ccf7e.mp4
+
